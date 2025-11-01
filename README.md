@@ -1,33 +1,177 @@
-# 🪙 Ayicoin Platform - Professional Web3 Token Factory
+---
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ayicoin?style=social)](https://twitter.com/ayicoin)
+# 💠 AYICOIN Platform — Build Your Token, Build Your World
 
-Create institutional-grade ERC20 tokens in minutes, no coding required. The ultimate Web3 tokenization platform for developers and businesses.
+**AYICOIN** is a next-gen Web3 token factory that empowers anyone to create their own ERC20 token — effortlessly, instantly, and securely.
+From meme tokens to utility coins, AYICOIN lets you launch your ideas on-chain within minutes.
 
-> 🚀 **From Zero to Token in 2 Minutes** - Perfect for developers, entrepreneurs, and Web3 enthusiasts
+> 💫 **No Code. No Limits. Just Create.**
 
-## 🎬 Demo Video
-*[Insert your demo video link here after recording]*
+---
 
-## ✨ Features
+## 🔥 What is AYICOIN?
 
-- **🎯 6 Professional Templates** - Meme, Utility, Governance, Stablecoin, NFT, GameFi tokens
-- **⚡ Zero Coding Required** - Intuitive interface for technical & non-technical users
-- **🔒 Enterprise Security** - Built on OpenZeppelin standards with advanced features
-- **🚀 Instant Local Deployment** - Hardhat network, no testnet complexity
-- **📊 Token Management Dashboard** - Track and manage all your deployed tokens
-- **🌐 Multi-Chain Ready** - Architecture prepared for Ethereum, Polygon, BSC
+AYICOIN isn’t just a deploy tool — it’s a **movement to simplify token creation**.
+We believe every builder, brand, and creator should have the freedom to launch their digital economy — without writing a single line of Solidity.
 
-## ⚡ Quick Start
+---
 
-### Prerequisites
-- Node.js (v16 or higher)
-- MetaMask browser extension
+## ✨ Core Features
 
-### Installation & Setup
+* 🪙 **Instant ERC20 Deployment** — create tokens in minutes
+* 💡 **6 Pre-Built Token Types** — Meme, Utility, Governance, Stablecoin, NFT, GameFi
+* 🧱 **Token Factory Contract** — built with OpenZeppelin for maximum security
+* ⚙️ **Local Dev Support** — powered by Hardhat and Ethers.js
+* 🖥️ **Modern React Frontend** — simple, clean, and intuitive UI
+* 🚀 **Future Multi-Chain Expansion** — Ethereum, Polygon, BSC, and beyond
 
-1. **Clone the repository**
+---
+
+## 🧭 The AYICOIN Vision
+
+> “To make token creation as easy as launching a website.”
+
+AYICOIN aims to be the **WordPress of Web3**, where creators can deploy, customize, and manage their token economies with zero friction.
+
+---
+
+## ⚡ Quick Start Guide
+
+### 🧩 Requirements
+
+* Node.js v16+
+* MetaMask browser extension
+
+### 🛠 Installation
+
 ```bash
 git clone https://github.com/pramhatibie/ayicoin-platform
 cd ayicoin-platform
+npm install
+```
+
+### 🚀 Run the Platform
+
+```bash
+npm run dev
+```
+
+This will:
+
+* Spin up a local Hardhat blockchain
+* Deploy the **AYICOIN TokenFactory**
+* Open the web app at [http://localhost:3000](http://localhost:3000)
+
+---
+
+## 💥 Deploy Your First Token
+
+1. Visit [http://localhost:3000](http://localhost:3000)
+2. Connect MetaMask wallet
+3. Choose **Hardhat Network (Chain ID: 31337)**
+4. Select a template or set custom parameters
+5. Hit **Deploy** — and your AYICOIN token is live 🎉
+
+---
+
+## 🧱 Project Structure
+
+```
+ayicoin-platform/
+├── contracts/
+│   ├── TokenFactory.sol
+│   └── AyicoinToken.sol
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── context/
+│   │   └── config/
+│   └── public/
+├── scripts/
+│   ├── deployFactory.js
+└── hardhat.config.js
+```
+
+---
+
+## 💎 Token Templates
+
+| Template             | Symbol | Description               | Supply | Key Use            |
+| -------------------- | ------ | ------------------------- | ------ | ------------------ |
+| 🐶 Meme Token        | MEME   | Viral or community tokens | 1B     | Social & culture   |
+| ⚙️ Utility Token     | UTIL   | Payments & in-app credits | 10M    | Product ecosystems |
+| 🗳️ Governance Token | GOV    | DAO or community votes    | 1M     | Governance         |
+| 💰 Stablecoin        | STABLE | Asset-pegged              | Custom | Payments           |
+| 🎨 NFT Utility       | NFTU   | NFT-related services      | 100M   | NFT ecosystems     |
+| 🎮 GameFi Token      | GAME   | In-game economy           | 1B     | Gaming             |
+
+---
+
+## 🧪 Development Commands
+
+Run local node:
+
+```bash
+npx hardhat node
+```
+
+Deploy factory contract:
+
+```bash
+npx hardhat run scripts/deployFactory.js --network localhost
+```
+
+Run tests:
+
+```bash
+npx hardhat test
+```
+
+---
+
+## 🤝 Contributing to AYICOIN
+
+We welcome builders, designers, and innovators to join the mission.
+
+1. Fork this repo
+2. Create a new feature branch
+3. Submit a PR — let’s build Web3 together 🌐
+
+---
+
+## 📄 License
+
+AYICOIN Platform is currently under **personal development phase**.
+The project will adopt the **MIT License** in upcoming releases.
+
+---
+
+## 💌 Contact
+
+📧 **Email:** [pramhatibie@gmail.com](mailto:pramhatibie@gmail.com)
+🌐 **GitHub:** [@pramhatibie](https://github.com/pramhatibie)
+
+---
+
+## 🪙 Built With
+
+* [Hardhat](https://hardhat.org/)
+* [React](https://reactjs.org/)
+* [Ethers.js](https://docs.ethers.org/)
+* [OpenZeppelin](https://openzeppelin.com/)
+
+---
+
+## ❤️ About the Creator
+
+**Adrianus Pramudya Hatibie** — builder, dreamer, and Web3 enthusiast.
+Building AYICOIN to empower anyone to launch their own token — *without barriers*.
+
+> “Because the future belongs to those who mint it.” 🌍
+
+---
+
+💫 **AYICOIN Platform © 2025** — *Empowering the next generation of token creators.*
+
+---
+
