@@ -1,5 +1,3 @@
----
-
 # 💠 AYICOIN Platform — Build Your Token, Build Your World
 
 **AYICOIN** is a next-gen Web3 token factory that empowers anyone to create their own ERC20 token — effortlessly, instantly, and securely.
