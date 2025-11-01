@@ -1,9 +1,24 @@
+
+
 # 💠 AYICOIN Platform — Build Your Token, Build Your World
+
+[![Built with Hardhat](https://img.shields.io/badge/Built%20with-Hardhat-ffcc00?style=for-the-badge&logo=ethereum)](https://hardhat.org/)
+[![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://ayicoin-platform.vercel.app/)
+[![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)](#)
 
 **AYICOIN** is a next-gen Web3 token factory that empowers anyone to create their own ERC20 token — effortlessly, instantly, and securely.
 From meme tokens to utility coins, AYICOIN lets you launch your ideas on-chain within minutes.
 
 > 💫 **No Code. No Limits. Just Create.**
+
+---
+
+## 🌐 Live Demo
+
+👉 **Try AYICOIN now:** [https://ayicoin-platform.vercel.app/](https://ayicoin-platform.vercel.app/)
+
+Experience how easy it is to create your own token directly from the browser — no setup required.
 
 ---
 
@@ -64,7 +79,7 @@ This will:
 
 ## 💥 Deploy Your First Token
 
-1. Visit [http://localhost:3000](http://localhost:3000)
+1. Visit [http://localhost:3000](http://localhost:3000) or the live demo link
 2. Connect MetaMask wallet
 3. Choose **Hardhat Network (Chain ID: 31337)**
 4. Select a template or set custom parameters
@@ -171,5 +186,4 @@ Building AYICOIN to empower anyone to launch their own token — *without barrie
 
 💫 **AYICOIN Platform © 2025** — *Empowering the next generation of token creators.*
 
----
 
