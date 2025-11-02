@@ -154,8 +154,7 @@ We welcome builders, designers, and innovators to join the mission.
 
 ## 📄 License
 
-AYICOIN Platform is currently under **personal development phase**.
-The project will adopt the **MIT License** in upcoming releases.
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
 
 ---
 
