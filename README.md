@@ -156,6 +156,10 @@ We welcome builders, designers, and innovators to join the mission.
 
 This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
 
+> ⚠️ **License Notice:**  
+> AYICOIN Platform became MIT licensed starting **November 2, 2025**.  
+> Any prior clones or copies before this date remain **subject to copyright by the author**.
+
 ---
 
 ## 💌 Contact
