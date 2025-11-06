@@ -165,8 +165,10 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 ## 💌 Contact
 
 📧 **Email:** [pramhatibie@gmail.com](mailto:pramhatibie@gmail.com)
+
 🌐 **GitHub:** [@pramhatibie](https://github.com/pramhatibie)
-💬 **Twitter:** [@AyicoinHQ](https://x.com/AyicoinHQ)
+
+🔔 **Twitter:** [@AyicoinHQ](https://x.com/AyicoinHQ)
 
 ---
 
